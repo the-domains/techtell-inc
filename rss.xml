@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[TechTell, Inc.]]></title>
         <description><![CDATA[TechTell, Inc.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.techtell.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 17:25:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Mar 2016 17:39:53 GMT</lastBuildDate>
+        <atom:link href="http://www.techtell.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined85c53616-712b-4dba-8d5c-18dd7c396c11/index.html</link>
+            <description><![CDATA[<p>TechTell Monitoring Services</p>]]></description>
+            <link>http://www.techtell.com/85c53616-712b-4dba-8d5c-18dd7c396c11/index.html</link>
             <guid isPermaLink="false">85c53616-712b-4dba-8d5c-18dd7c396c11</guid>
-            <pubDate>Tue, 22 Mar 2016 17:25:35 GMT</pubDate>
+            <pubDate>Tue, 22 Mar 2016 17:39:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
